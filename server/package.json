@@ -1,4 +1,4 @@
-{
+git branch -M main{
   "name": "rag-quiz-server",
   "version": "1.0.0",
   "type": "module",
